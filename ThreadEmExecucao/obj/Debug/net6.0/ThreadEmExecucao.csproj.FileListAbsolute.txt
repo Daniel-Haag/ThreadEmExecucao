@@ -1,0 +1,15 @@
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\bin\Debug\net6.0\ThreadEmExecucao.exe
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\bin\Debug\net6.0\ThreadEmExecucao.deps.json
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\bin\Debug\net6.0\ThreadEmExecucao.runtimeconfig.json
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\bin\Debug\net6.0\ThreadEmExecucao.dll
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\bin\Debug\net6.0\ref\ThreadEmExecucao.dll
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\bin\Debug\net6.0\ThreadEmExecucao.pdb
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\obj\Debug\net6.0\ThreadEmExecucao.csproj.AssemblyReference.cache
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\obj\Debug\net6.0\ThreadEmExecucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\obj\Debug\net6.0\ThreadEmExecucao.AssemblyInfoInputs.cache
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\obj\Debug\net6.0\ThreadEmExecucao.AssemblyInfo.cs
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\obj\Debug\net6.0\ThreadEmExecucao.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\obj\Debug\net6.0\ThreadEmExecucao.dll
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\obj\Debug\net6.0\ref\ThreadEmExecucao.dll
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\obj\Debug\net6.0\ThreadEmExecucao.pdb
+C:\Cursos\Curso C# Avançado\Seção 6 - Thread - Execução em paralelo\ThreadEmExecucao\ThreadEmExecucao\obj\Debug\net6.0\ThreadEmExecucao.genruntimeconfig.cache
